@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/chihy525?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FChina)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihy525)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihy525&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
